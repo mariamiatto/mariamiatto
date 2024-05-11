@@ -11,6 +11,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-ffcbdb?style=for-the-badge&logo=github&logoColor=f17ea1)
 ![Markdown](https://img.shields.io/badge/Markdown-ffcbdb?style=for-the-badge&logo=markdown&logoColor=f17ea1)
 
-## 🩷 Github Status
-
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamiatto&show_icons=true&theme=dracula)
