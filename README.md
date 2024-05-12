@@ -7,7 +7,7 @@
 
 ## 🩷 Habilidades
 ![Vscode](https://img.shields.io/badge/Vscode-ffcbdb?style=for-the-badge&logo=visual-studio-code&logoColor=f17ea1)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffcbdb?style=for-the-badge&logo=javascript&logoColor=f17ea1)
+![Java](https://img.shields.io/badge/java-ffcbdb.svg?style=for-the-badge&logo=openjdk&logoColor=f17ea1)
 ![GitHub](https://img.shields.io/badge/GitHub-ffcbdb?style=for-the-badge&logo=github&logoColor=f17ea1)
 ![Markdown](https://img.shields.io/badge/Markdown-ffcbdb?style=for-the-badge&logo=markdown&logoColor=f17ea1)
 
