@@ -1,6 +1,6 @@
 # Hi, I'm Maria Isabela 🧋
 
-I'm a **System Analysis and Development** student, focused on **Java**, **JavaScript**, **HTML**, and **CSS**. I'm passionate about coding and continually expanding my skills in software development.
+I'm a **System Analysis and Development** student, focused on **Java**, **C**, **JavaScript**, **HTML**, and **CSS**. I'm passionate about coding and continually expanding my skills in software development.
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1F26?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-isabela-miatto-de-lima-382520a6/) 
